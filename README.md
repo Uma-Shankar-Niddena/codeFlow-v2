@@ -26,6 +26,7 @@ git clone https://github.com/Uma-Shankar-Niddena/flowStack.git
 
 1.Frontend setup:
 
+```bash
 cd flowStack/frontend/taskmanager
 npm install
 npm start
@@ -33,6 +34,7 @@ npm start
 
 2.Backend setup:
 
+```bash
 cd ../backend
 npm install
 npm run dev
@@ -40,12 +42,14 @@ npm run dev
 
 3.Open your browser at:
 
+```bash
 http://localhost:3000
 
 
 Note: Make sure Node.js and npm are installed.
 
 *Project Structure
+```bash
 flowStack/
 ├── backend/        # Server-side code
 ├── frontend/       # React frontend
